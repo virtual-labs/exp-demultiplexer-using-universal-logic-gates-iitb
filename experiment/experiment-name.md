@@ -1,1 +1,1 @@
-## Experiment name
+## Demultiplexer using universal logic gates.
