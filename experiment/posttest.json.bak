@@ -1,0 +1,48 @@
+[
+  {
+    "question": "The figure in image003, represents a ___________.",
+    "qid": 1,
+    "src": "images/postQ1.PNG",
+    "option_a": "1:2 mux",
+    "option_b": "1:2 demux",
+    "option_c": "1:2 decoder",
+    "option_d": "none of these",
+    "correct_option": "c"
+  },
+  {
+    "question": "In figure image003, when control input A = 0,",
+    "qid": 2,
+    "option_a": "Y0 = 0, Y1 = 0",
+    "option_b": "Y0 = 0, Y1 = 1",
+    "option_c": "Y0 = 1, Y1 = 0",
+    "option_d": "Y0 = 1, Y1 = 1",
+    "correct_option": "b"
+  },
+  {
+    "question": "In figure image003, when control input A = 1,",
+    "qid": 3,
+    "option_a": "Y0 = 0, Y1 = 0",
+    "option_b": "Y0 = 0, Y1 = 1",
+    "option_c": "Y0 = 1, Y1 = 0",
+    "option_d": "Y0 = 1, Y1 = 1",
+    "correct_option": "c"
+  },
+  {
+    "question": "In figure image003, what value of A will result in Y0 = Y1=0?",
+    "qid": 4,
+    "option_a": "A = 0",
+    "option_b": "A = 1",
+    "option_c": "A = x",
+    "option_d": "Not possible",
+    "correct_option": "d"
+  },
+  {
+    "question": "Higher order demux/decoders can be built using lower order demux/decoders. State True or False.",
+    "qid": 5,
+    "option_a": "True",
+    "option_b": "False",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": "a"
+  }
+]
