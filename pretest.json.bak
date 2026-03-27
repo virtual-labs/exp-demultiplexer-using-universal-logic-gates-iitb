@@ -1,0 +1,48 @@
+[
+  {
+    "question": "In the figure shown in image002, a ______________is shown using basic logic gates.",
+    "qid": 1,
+    "src": "images/preQ1.PNG",
+    "option_a": "1:2 mux",
+    "option_b": "2:1 mux",
+    "option_c": "2:1 demux",
+    "option_d": "1:2 demux",
+    "correct_option": "d"
+  },
+  {
+    "question": "In figure image002, when control input A = 0 and D=1 ?",
+    "qid": 2,
+    "option_a": "Y0 = 0, Y1 = 0",
+    "option_b": "Y0 = 1, Y1 = 0",
+    "option_c": "Y0 = 0, Y1 = 1",
+    "option_d": "Y0 = 1, Y1 = 1",
+    "correct_option": "b"
+  },
+  {
+    "question": "In figure image002, when control input A = 0 and D=0 ?",
+    "qid": 3,
+    "option_a": "Y0 = 1, Y1 = 0",
+    "option_b": "Y0 = 0, Y1 = 1",
+    "option_c": "Y0 = 0, Y1 = 0",
+    "option_d": "Y0 = 1, Y1 = 1",
+    "correct_option": "c"
+  },
+  {
+    "question": "In figure image002, what is the output if A = 1 and D = 0?",
+    "qid": 4,
+    "option_a": "Y0 = 0, Y1 =1",
+    "option_b": "Y0 = 1, Y1 =1",
+    "option_c": "Y0 = 0, Y1 =0",
+    "option_d": "Y0 = 1, Y1 =0",
+    "correct_option": "c"
+  },
+  {
+    "question": "In figure image002, what is the output if A = 1 and D = 1?",
+    "qid": 5,
+    "option_a": "Y0 = 0, Y1 =1",
+    "option_b": "Y0 = 1, Y1 = 0",
+    "option_c": "Y0 = 0, Y1 =0",
+    "option_d": "Y0 = 1, Y1 =1",
+    "correct_option": "a"
+  }
+]
